@@ -1,0 +1,64 @@
+# 🐧 What is Linux?
+
+## 1. Introduction
+- **Linux** is an **open-source operating system (OS)** based on Unix principles.  
+- It was created in **1991 by Linus Torvalds**.  
+- The **Linux kernel is free and open-source**, which means anyone can modify and distribute it.  
+
+---
+
+## 2. Why Linux?
+- **Free & Open Source** – No licensing cost.  
+- **Secure** – Safer against viruses and malware.  
+- **Customizable** – Can be modified as per user needs.  
+- **Stable & Reliable** – Widely used in servers, supercomputers, and mobile OS (Android).  
+- **Community Support** – Improved continuously by global developers.  
+
+---
+
+## 3. Main Components of Linux
+1. **Kernel** → The core part of Linux that manages communication between hardware and software.  
+2. **Shell** → Command Line Interface (CLI) where users interact with the system (e.g., Bash).  
+3. **File System** → Everything in Linux is treated as a file, starting from the root directory .  
+4. **Utilities** → Tools and commands used for daily operations (ls, cp, mv, etc.).  
+
+---
+
+## 4. Linux vs Windows
+| Feature       | Linux 🐧                 | Windows 🪟             |
+|---------------|--------------------------|-------------------------|
+| Cost          | Free & Open Source       | Paid License            |
+| Security      | High (less malware)      | Vulnerable (more virus) |
+| Customization | High                     | Limited                 |
+| Usage         | Servers, Developers, IoT | Desktop, Office Users   |
+| Performance   | Stable & Fast            | Heavy with updates      |
+
+---
+
+## 5. Where is Linux Used?
+- **Servers** (Google, Facebook, Amazon use Linux servers)  
+- **Supercomputers** (Top 500 supercomputers run on Linux)  
+- **Mobile OS** (Android is based on Linux kernel)  
+- **IoT Devices & Routers**  
+- **Developers** (Coding, Networking, Cybersecurity, Cloud computing)  
+
+---
+
+## 6. Key Features of Linux
+- Multi-user support  
+- Multitasking  
+- Portability  
+- Strong Security & Permissions  
+- Open-source Community  
+
+---
+
+## 7. Basic Hands-on Commands
+```bash
+uname -a
+pwd
+ls
+whoami
+date
+```
+
